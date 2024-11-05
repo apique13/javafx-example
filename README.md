@@ -1,5 +1,6 @@
 # javafx-example
 Simple example of a JavaFX minimal application
+Change com.example by an other package name after fork
 
 # Requirements
 You needs :
